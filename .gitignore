@@ -1,0 +1,6 @@
+echo "*.exe
+*.txt
+*.o
+*.out
+*.a
+tempCodeRunnerFile.*" > .gitignore
